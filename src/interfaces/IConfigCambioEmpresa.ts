@@ -1,0 +1,2 @@
+import { IEmpresa } from "./IEmpresa";
+
